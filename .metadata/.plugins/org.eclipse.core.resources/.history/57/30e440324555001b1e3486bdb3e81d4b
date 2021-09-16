@@ -1,8 +1,0 @@
-name: AdventureMapRNG
-main: scrumpy.adventuremaps.rng.RNGPlugin
-version: 1.0
-api-version: 1.13
-commands:
-  rngsb:
-    description: Exports a random value from a given range into a scoreboard variable
-    usage: rngsb <min value> <max value> <scoreboard variable> <scoreboard>
