@@ -1,5 +1,4 @@
 # RNGPlugin
-A plugin for my adventure maps which provides a way to get random numbers for scoreboard variables
 
 ## What is this for?
 I made this plugin out of frustration of there being no way to get a psudorandom number in Minecraft for scoreboards, of course you have the adders but they are nowhere near random enough.
@@ -12,7 +11,6 @@ We don't really release our adventure maps, they're just for us to have a bit of
 To extend this project you will need
  - At least Java 8
  - spigot-api
- - spigot-api-javadoc
  
 ### As as aside Java 8 will soon be unsupported once this plugin supports Minecraft 1.17
 ### Java 8 versions will still be released for older versions for those who need it.
@@ -20,12 +18,4 @@ To extend this project you will need
 If you would like to upstream your changes this can be done via a pull request.
 
 ## THERES ERRORS EVERYWHERE!!!!
-You probably forgot to include spigot-api in the ExternalLibs folder
-
-[You can find downloads to spigot-api and the javadoc here](https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/)
-
-When you go to put the files in there you need to name spigot-api `spigot-api.jar` and the javadoc `spigot-api-javadoc.jar`
-
-The result should look like this:
-
-<img src="https://raw.githubusercontent.com/tgpethan/RNGPlugin/master/images/ExternalLibsShouldLookLike.webp" alt="Result Image">
+You probably forgot to include spigot-api. [You can find downloads to spigot-api and the javadoc here](https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/)
