@@ -10,10 +10,9 @@ We don't really release our adventure maps, they're just for us to have a bit of
 
 ## Extending this
 To extend this project you will need
- - Eclipse 4.17.0 or newer
- - At least Java 8 *(although be warned versions such as Eclipse 4.17.0 will only run on Java 11 and newer)*
- - spigot-api 1.16.4
- - spigot-api-javadoc 1.16.4
+ - At least Java 8
+ - spigot-api
+ - spigot-api-javadoc
  
 ### As as aside Java 8 will soon be unsupported once this plugin supports Minecraft 1.17
 ### Java 8 versions will still be released for older versions for those who need it.
